@@ -1,0 +1,53 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "context",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "hCRfPlNpqv8tvVivLzmXsoUOf1c=",
+			"path": "github.com/rs/xhandler",
+			"revision": "ed27b6fd65218132ee50cd95f38474a3d8a2cd12",
+			"revisionTime": "2016-06-18T19:32:21Z"
+		},
+		{
+			"checksumSHA1": "F6eWi/7Yl/rcMg9h3PWsgYQQkf0=",
+			"path": "github.com/rs/xid",
+			"revision": "057f3c928c207d1e7e318929eeac93bb46e319e3",
+			"revisionTime": "2016-03-15T14:06:58Z"
+		},
+		{
+			"checksumSHA1": "T/YnhwIWD6vC2b36WwfXcx9+6Hs=",
+			"path": "github.com/rs/xlog",
+			"revision": "65f56f4e59a609f0ab40ebc3251b19402668470a",
+			"revisionTime": "2016-07-27T22:44:16Z"
+		},
+		{
+			"checksumSHA1": "7zL/5tBj32ELKw1Me7OK309Dv/o=",
+			"path": "github.com/rs/xlog/internal/term",
+			"revision": "65f56f4e59a609f0ab40ebc3251b19402668470a",
+			"revisionTime": "2016-07-27T22:44:16Z"
+		},
+		{
+			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"path": "golang.org/x/net/context",
+			"revision": "65dfc08770ce66f74becfdff5f8ab01caef4e946",
+			"revisionTime": "2016-10-24T22:38:16Z"
+		},
+		{
+			"checksumSHA1": "ipwVzVu7+mbz3yUnuwUNWSUuVck=",
+			"path": "golang.org/x/net/webdav",
+			"revision": "65dfc08770ce66f74becfdff5f8ab01caef4e946",
+			"revisionTime": "2016-10-24T22:38:16Z"
+		},
+		{
+			"checksumSHA1": "Q3wUNc6SE1sHW7mKM80grgd+aU4=",
+			"path": "golang.org/x/net/webdav/internal/xml",
+			"revision": "65dfc08770ce66f74becfdff5f8ab01caef4e946",
+			"revisionTime": "2016-10-24T22:38:16Z"
+		}
+	],
+	"rootPath": "github.com/GMTror/webdav-server"
+}
